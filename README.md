@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=padmanabh03" alt="padmanabh03" /></a> </p>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Padmanabh03](https://github.com/Padmanabh03)
 
-- 💬 Ask me about **Unity2d,frontend devlopment,python**
+- 💬 Ask me about **AI, Machine Learning, **
 
-- 📫 How to reach me **padmanabhbutala03@gmail.com**
+- 📫 How to reach me **pb8176@rit.edu**
 
 - ⚡ Fun fact **I am a CODE Blooded person.**
 
